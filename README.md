@@ -1,4 +1,4 @@
-# image_captioning_flickr
+# image_captioning
 
 In this project, we worked on both, the flickr_8k and flickr_30k, datasets but we had some storage and runtime complications with the flickr_30k dataset.
 
